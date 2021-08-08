@@ -1,4 +1,4 @@
-# news-sentiment-analisys
+# News sentiment analisys
 News sentiment analysis and related docs
 
 Подробные описания работы смотреть в доках .pdf и .doc
